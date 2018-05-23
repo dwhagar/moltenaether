@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Central page for the Molten Aether DB -->
 
 # Molten Aether DB
-This is an open archive of all information pertaining to the [[Blazing Umbra]] family of role play settings, there are 3 distinct settings all existing in the same universe but at different times and places, each with its own feel.  Before we get into that, just a few bits of information.  The most important point is that this is an '''FFRP''' or ''Free Form Role Play'', which means we do not use dice.  Secondly, we have [[Site Rules]] which serve as guidelines for player behavior.  In addition, we have a [[Role Playing Guide]] for new players and anyone else wishing to see the style of role playing we do here and a page on [[Terminology]] if there is something that is unfamiliar to anyone.
+This is an open archive of all information pertaining to the [Blazing Umbra](blazing-umbra) family of role play settings, there are 3 distinct settings all existing in the same universe but at different times and places, each with its own feel.  Before we get into that, just a few bits of information.  The most important point is that this is an '''FFRP''' or ''Free Form Role Play'', which means we do not use dice.  Secondly, we have [Site Rules](rules) which serve as guidelines for player behavior.  In addition, we have a [Role Playing Guide](rp-guide) for new players and anyone else wishing to see the style of role playing we do here and a page on [Terminology](terms) if there is something that is unfamiliar to anyone.
 
 ## Settings
 The flow of time goes in a 1:1 ratio.  That is, for every 1 day the passes in the real world, a day passes in-game as well unless otherwise noted in an announcement.  Time itself follows UTC (Universal Time Coordinated), this is GMT+0 without daylight savings time.  The [current time for UTC can be found here](https://www.timeanddate.com/worldclock/timezone/utc).  For more information, see [Considerations of Time](considerations-of-time).
@@ -17,10 +17,10 @@ The setting is a modified [Star Trek](star-trek) universe based on an organizati
 This is a fantasy setting taking place approximately _1 Billion years_ prior to the events in _Blazing Umbra_ on the planet [Soteria](soteria).  This links directly into the pre-history of the star system in which Blazing Umbra takes place.  This is a world of magic, dragons, knights, elves, and anything else.  Here is [more information](embers-of-soteria) about this setting.
 
 ## Where to Play
-While we usually play on one of our Discord servers (listed below) we also have an extensive [https://forum.blazingumbra.com Web Forum] which caters to any of our settings.  Our live chat server is [https://discordapp.com/invite/7KU4KpD linked here].
+While we usually play on one of our Discord servers (listed below) we also have an extensive [Forum](https://forum.moltenaether.com) which caters to any of our settings.  Our live chat server is [linked here](https://discordapp.com/invite/7KU4KpD).
 
 ## Joining
-Anyone is welcome to join, joining the chat games requires [[Character Approval|character approval]] so I suggest that after taking a look at the setting itself if you're still interested in joining, you start there.  If you're looking to join the forum, then I direct you to start there and seek a game thread, as the forum has many games going on at the same time each thread has control over what characters may enter their threads.
+Anyone is welcome to join, joining the chat games requires [character approval](character-approval) so I suggest that after taking a look at the setting itself if you're still interested in joining, you start there.  If you're looking to join the forum, then I direct you to start there and seek a game thread, as the forum has many games going on at the same time each thread has control over what characters may enter their threads.
 
 ## IC / OOC Chat
 There are two kinds of rooms, IC (in character) and OOC (out of character). While in an IC channel everything operates from in-character preceptive. Players should be careful not to god-mod and out of character chatter should be kept to a minimum and surrounded by double-brackets or double-parithesis - [[]] (()).
