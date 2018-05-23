@@ -1,6 +1,6 @@
 <!-- TITLE: Home -->
 <!-- SUBTITLE: Central page for the Molten Aether DB -->
-
+![Solas Tempus](/uploads/logos/solas-tempus.png "Solas Tempus"){.pagelogo}
 # Molten Aether DB
 This is an open archive of all information pertaining to the [Blazing Umbra](blazing-umbra) family of role play settings, there are 3 distinct settings all existing in the same universe but at different times and places, each with its own feel.  Before we get into that, just a few bits of information.  The most important point is that this is an '''FFRP''' or ''Free Form Role Play'', which means we do not use dice.  Secondly, we have [Site Rules](rules) which serve as guidelines for player behavior.  In addition, we have a [Role Playing Guide](rp-guide) for new players and anyone else wishing to see the style of role playing we do here and a page on [Terminology](terms) if there is something that is unfamiliar to anyone.
 
